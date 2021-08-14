@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthias-matthies
 - 👀 I’m interested in Webdevelopment
-- 🌱 I’m currently learning React and Next
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on /
 
 <!---
