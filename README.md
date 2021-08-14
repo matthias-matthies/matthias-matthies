@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @matthias-matthies
 - 👀 I’m interested in Webdevelopment
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on /
 
 <!---
 matthias-matthies/matthias-matthies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
