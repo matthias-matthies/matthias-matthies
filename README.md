@@ -1,6 +1,6 @@
 # Hello there
 
-6th semester computer science student that wants to focus and develope in Rust
+1st semester computer science master student that wants to focus and develope in Rust
 
 <!---
 matthias-matthies/matthias-matthies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
